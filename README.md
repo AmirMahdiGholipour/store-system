@@ -26,9 +26,19 @@ This project is designed for learning purposes and small-scale usage, focusing o
 ```text
 store-system/
 │
+├── core/
+│   ├── product.py
+│   ├── sales.py
+│   ├── storage.py
+├── reports/
+│   ├── excel_export.py
+├── utils/
+│   ├── security.py
+├── *products.json*
+├── *sales.json*
+├── *admin.txt*
+├── *sales_report.xlsx*
 ├── main.py
-├── utils.py
-├── data.json
 └── README.md
 ```
 
