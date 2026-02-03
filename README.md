@@ -54,6 +54,11 @@ cd project dir Example : C:\Users\USERNAME\Desktop
 ```bash
 python main.py
 ```
+<b>NOTE:<b>
+```text
+ For first run you need to set password for your management system
+ to only the person who has the password be able to add products *(remove products soon) and excel exporting.
+```
 OR<br><br>
 <i>Run it through your IDE</i>
 
