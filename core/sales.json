@@ -1,0 +1,17 @@
+{
+    "S-1001": {
+        "product_code": "P-1001",
+        "quantity": 4,
+        "total_price": 480
+    },
+    "S-1002": {
+        "product_code": "P-1001",
+        "quantity": 3,
+        "total_price": 360
+    },
+    "S-1003": {
+        "product_code": "P-1001",
+        "quantity": 2,
+        "total_price": 240
+    }
+}
